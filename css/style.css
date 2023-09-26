@@ -16,6 +16,10 @@ nav{
     padding: 30px 80px;
 }
 
+nav a{
+    color: #333;
+}
+
 nav ul{
     display: flex;
     gap: 50px;
